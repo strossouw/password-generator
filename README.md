@@ -1,13 +1,15 @@
-###### Password Generator
+# Password Generator
 
 ### Purpose:
 The purpose of this project was to use java script to generate a password.
 
 ### How to use:
 Press generate password.
- 
+
+ ![image](https://user-images.githubusercontent.com/105831699/173973075-8baeff11-968d-4a33-bc79-3b2f7cc34132.png)
 
 Select password length, must be at least 8 and no more than 128.
+
 
  
 Select if upper case letters should be included.
