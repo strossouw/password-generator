@@ -29,10 +29,15 @@ Select is special characters should be included.
 ![image](https://user-images.githubusercontent.com/105831699/173973623-e7a422bd-d993-4105-932f-c5f15f81e267.png)
  
 The password will display in the window.
+
+![image](https://user-images.githubusercontent.com/105831699/173973680-ed2503b0-88a7-4d35-99cc-6b6cf5548b68.png)
+
  
 
-The method to achieve this:
+## How it works:
+
 User prompt will first check that the password meets the length requirements, between 8 and 128. It will also verify that the input is a number. If it does not pass the verification if statements, it will return to the beginning for a new input.
+
 The next set of user prompts will verify which items to include in the password.
 The options are: Upper Case Letters, Lower Case Letters, Numbers and Special Characters. 
 
