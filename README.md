@@ -17,6 +17,8 @@ Select if upper case letters should be included.
  ![image](https://user-images.githubusercontent.com/105831699/173973361-e2780dc7-e721-4a26-b63b-bcb760e1ee99.png)
 
 Select if lower case letters should be included.
+
+https://github.com/strossouw/password-generator/blob/main/assets/images/Picture4.png?raw=true
  
 Select if numbers should be included.
 
