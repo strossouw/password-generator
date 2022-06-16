@@ -25,6 +25,8 @@ Select if numbers should be included.
 ![image](https://user-images.githubusercontent.com/105831699/173973453-4705c049-b797-4e9c-b731-8610cf42f4c6.png)
  
 Select is special characters should be included.
+
+![image](https://user-images.githubusercontent.com/105831699/173973623-e7a422bd-d993-4105-932f-c5f15f81e267.png)
  
 The password will display in the window.
  
