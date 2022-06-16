@@ -19,6 +19,8 @@ Select if upper case letters should be included.
 Select if lower case letters should be included.
  
 Select if numbers should be included.
+
+![image](https://user-images.githubusercontent.com/105831699/173973453-4705c049-b797-4e9c-b731-8610cf42f4c6.png)
  
 Select is special characters should be included.
  
