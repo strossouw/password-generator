@@ -12,9 +12,10 @@ Select password length, must be at least 8 and no more than 128.
 
 ![image](https://user-images.githubusercontent.com/105831699/173973303-cb0ba78d-03f4-4b7c-b07e-9afc1e7441cc.png)
 
- 
 Select if upper case letters should be included.
  
+ ![image](https://user-images.githubusercontent.com/105831699/173973361-e2780dc7-e721-4a26-b63b-bcb760e1ee99.png)
+
 Select if lower case letters should be included.
  
 Select if numbers should be included.
